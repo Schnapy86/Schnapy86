@@ -6,18 +6,28 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
 
 
 ## Compétences 
+- Hard Skills
+  - Base de données
+  - Python
+  - Java
+  - Faire des crêpes
+  - Réseau
+     
+- Soft Skills
+  - Travail en équipe
+  - Sérieux
+  - Patience
 
 
 ## Expériences
-
+Je vais réaliser un stage d'une semaine au sein de l'entreprise **Infologis** basée à Châteauroux. Ce stage porte sur le développement d'outil d'assistance au déploiement de la solution web. Les compétences visées sont le développement d'interfaces et de scripts. 
 
 ## Projets
 
 
 ## Contact
+Adresse mail : ilona.dejean@etu.unilim.fr
+Téléphone : 00.00.00.00.00
 
-
-**er**
-*er*
 
 
