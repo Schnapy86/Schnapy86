@@ -12,6 +12,7 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
   - Java
   - Faire des crêpes
   - Réseau
+  - Développement web
      
 - Soft Skills
   - Travail en équipe
@@ -20,9 +21,13 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
 
 
 ## Expériences
-Je vais réaliser un stage d'une semaine au sein de l'entreprise **Infologis** basée à Châteauroux. Ce stage porte sur le développement d'outil d'assistance au déploiement de la solution web. Les compétences visées sont le développement d'interfaces et de scripts. 
+Je vais réaliser un stage de **10 semaines** au sein de l'entreprise **Infologis** basée à Châteauroux. Ce stage porte sur le développement d'outil d'assistance au déploiement de la solution web. Les compétences visées sont le développement d'interfaces et de scripts. 
 
 ## Projets
+Durant mes années de formation, j'ai pu réaliser divers projets en groupe.
+**Première année**
+
+- Réalisation d'un ensemble de trois petits jeux : un jeu de devinette, un jeu d'alumette et un morpion.
 
 
 ## Contact
