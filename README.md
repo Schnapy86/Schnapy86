@@ -28,33 +28,33 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 
 **Première année**
 
--Réalisation et développement d'application : 
+- Réalisation et développement d'application : 
   J'ai réalisé en binome d'un ensemble de trois petits jeux en Python jouable en console: un jeu de devinette, un jeu d'alumette et un morpion. 
--Optimiser des applications :   
+- Optimiser des applications :   
   J'ai rajouté des bots de différents niveaux dans l'application précédente.
--Administration des systèmes informatiques communiquants complexes : 
+- Administration des systèmes informatiques communiquants complexes : 
   J'ai installé des outils de développement sur Débian et j'ai automatisé la création des comptes utilisateurs.
--Gérer des données de l'information : 
+- Gérer des données de l'information : 
   J'ai manipulé un certain nombre d'information provenant d'une base de données et j'y ai effectuer des requêtes afin de respecter un cahier des charges.
--Conduire un projet : 
+- Conduire un projet : 
   J'ai construit un recueil des besoins portant sur le Family Village de Limoges.
--Collaborer au sein d'une équipe informatique : 
+- Collaborer au sein d'une équipe informatique : 
   J'ai pu découvrir un métier de l'informatique en intervievant un professionnel et en restituant ces informations lors d'un oral.
 
 **Deuxième année**  
 
 
--Réalisation et développement d'application : 
+- Réalisation et développement d'application : 
   
--Optimiser des applications :   
+- Optimiser des applications :   
  
--Administration des systèmes informatiques communiquants complexes : 
+- Administration des systèmes informatiques communiquants complexes : 
 
--Gérer des données de l'information : 
+- Gérer des données de l'information : 
 
--Conduire un projet : 
+- Conduire un projet : 
   
--Collaborer au sein d'une équipe informatique : 
+- Collaborer au sein d'une équipe informatique : 
   
 
 ## Contact
