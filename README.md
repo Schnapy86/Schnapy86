@@ -10,7 +10,6 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
   - Base de données
   - Python
   - Java
-  - Faire des crêpes
   - Réseau
   - Développement web
      
