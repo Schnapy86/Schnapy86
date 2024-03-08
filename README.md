@@ -29,43 +29,43 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 **Première année** 
 
 *Semestre 1*
-- Réalisation et développement d'application : 
-  Réalisation en binome d'un ensemble de trois petits jeux en Python jouable en console: un jeu de devinette, un jeu d'alumette et un morpion. 
+- Réalisation et développement d'application :
+  - Réalisation en binome d'un ensemble de trois petits jeux en Python jouable en console: un jeu de devinette, un jeu d'alumette et un morpion. 
 - Optimiser des applications :   
-  Rajout des bots de différents niveaux dans l'application précédente.
+  - Rajout des bots de différents niveaux dans l'application précédente.
 - Administration des systèmes informatiques communiquants complexes : 
- Installation des outils de développement sur Débian et j'ai automatisé la création des comptes utilisateurs.
+  - Installation des outils de développement sur Débian et j'ai automatisé la création des comptes utilisateurs.
 - Gérer des données de l'information : 
-  Manipulation d'un certain nombre d'information provenant d'une base de données et effectuer des requêtes afin de respecter un cahier des charges.
+  - Manipulation d'un certain nombre d'information provenant d'une base de données et effectuer des requêtes afin de respecter un cahier des charges.
 - Conduire un projet : 
-  Construction d'un recueil des besoins portant sur le Family Village de Limoges.
+  - Construction d'un recueil des besoins portant sur le Family Village de Limoges.
 - Collaborer au sein d'une équipe informatique : 
-  Découverte d'un métier de l'informatique en intervievant un professionnel et en restituant ces informations lors d'un oral.
+  - Découverte d'un métier de l'informatique en intervievant un professionnel et en restituant ces informations lors d'un oral.
 
 *Semestre 2*
 - Réalisation et développement d'application :
-  Réalisation d'une version informatique du jeu "le Verger" en Java avec une interface graphique en JavaFx.
+  - Réalisation d'une version informatique du jeu "le Verger" en Java avec une interface graphique en JavaFx.
 - Optimiser des applications :
-  Réalisation du jeu "le Verger" avec de la qualité de code comme les principes SOLID et utilisation de git pour gérer le projet.
+  - Réalisation du jeu "le Verger" avec de la qualité de code comme les principes SOLID et utilisation de git pour gérer le projet.
 - Administration des systèmes informatiques communiquants complexes :
-  Implémentation d'une architecture réseau avec un serveur DNS, DHCP et un service SSH.
+  - Implémentation d'une architecture réseau avec un serveur DNS, DHCP et un service SSH.
 - Gérer des données de l'information :
-  Manipulation de données et utilisation de metabase.
+  - Manipulation de données et utilisation de metabase.
 - Conduire un projet :
-  Mise en place d'un forum d'association avec la gestion des emplacements, de la communication et du budget.
+  - Mise en place d'un forum d'association avec la gestion des emplacements, de la communication et du budget.
 - Collaborer au sein d'une équipe informatique :
-  Organisation et mise en place d'une journée des talents nommée 'Graine de talent'. Création des affiches et gestion de la communication.
+  - Organisation et mise en place d'une journée des talents nommée 'Graine de talent'. Création des affiches et gestion de la communication.
 
   
 **Deuxième année**  
 
 *Semestre 3*
 - Développement d'un application : 
-  Création d'une application de ray tracing à partie d'un squelette de code en C++. Création d'un réseau Kathara avec des sécurités pour l'accès à internet et des contraintes avec des iptables.
+  - Création d'une application de ray tracing à partie d'un squelette de code en C++. Création d'un réseau Kathara avec des sécurités pour l'accès à internet et des contraintes avec des iptables.
 
 *Semestre 4*
 - Développement d'un application complexe :
-  Création d'une base de données pour stocker les résultats de l'application ray-tracing et affichage à travers une application en Java. Ajout de nouvelles conditions et de tests dans le réseau Kathara.
+  - Création d'une base de données pour stocker les résultats de l'application ray-tracing et affichage à travers une application en Java. Ajout de nouvelles conditions et de tests dans le réseau Kathara.
 
   
 
