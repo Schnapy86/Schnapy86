@@ -27,6 +27,7 @@ Je vais réaliser un stage de **10 semaines** au sein de l'entreprise **Infologi
 Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au cours de ma première année, j'ai eu à réaliser 6 projets par semestre tous en groupe de 2 à 6 personnes en fonction des sujets.
 
 **Première année** 
+
 *Semestre 1*
 - Réalisation et développement d'application : 
   Réalisation en binome d'un ensemble de trois petits jeux en Python jouable en console: un jeu de devinette, un jeu d'alumette et un morpion. 
@@ -57,6 +58,7 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 
   
 **Deuxième année**  
+
 *Semestre 3*
 - Développement d'un application : 
   Création d'une application de ray tracing à partie d'un squelette de code en C++. Création d'un réseau Kathara avec des sécurités pour l'accès à internet et des contraintes avec des iptables.
