@@ -88,9 +88,6 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 *Semestre 5*
 - Développement avancé :
   - Développement d'une application web pour un gestionnaire de prévisionnel pour l'iut Informatique de l'université de Limoges
- 
-*Semestre 6*
-- Evolution d'une application existante :
 
 
 ## Contact
