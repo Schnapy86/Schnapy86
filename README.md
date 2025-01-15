@@ -7,9 +7,9 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
 
 ## Compétences 
 - Hard Skills
-  - Base de données
-  - Python
-  - Java
+  - Base de données <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="BDD" width="40" height="40"/>
+  - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  - Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   - Réseau
   - Développement web
      
