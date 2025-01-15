@@ -35,10 +35,6 @@ Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis p
   - Sérieux
   - Patience
 
-
-## Expériences
-J'ai réalisé un stage de **10 semaines** au sein de l'entreprise **Infologis** basée à Châteauroux. Ce stage portait sur le développement d'outil d'assistance au déploiement de la solution web. Les compétences visées sont le développement d'interfaces et de scripts.
-
   ## Projets
 Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au cours de ma première année, j'ai eu à réaliser 6 projets par semestre tous en groupe de 2 à 6 personnes en fonction des sujets.
 
