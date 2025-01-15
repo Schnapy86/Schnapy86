@@ -1,7 +1,7 @@
 # Porfolio
 
 ## Qui suis-je ?
-Je m'appelle Ilona Dejean. J'ai fait mes trois années de lycée à **Jean Moulin** à **Montmorillon**. J'y ai obtenu un baccalauréat avec la mention assez bien avec les spécialités **NSI** et **Physique-chimie**. J'ai ensuite poursuivi mes études par un BUT Informatique à Limoges qui propose le parcours *Réalisation d'applications, conception, développement, validation*. Je suis actuellement en train de faire ma deuxième année. 
+Je m'appelle Ilona Dejean. J'ai fait mes trois années de lycée à **Jean Moulin** à **Montmorillon**. J'y ai obtenu un baccalauréat avec la mention assez bien avec les spécialités **NSI** et **Physique-chimie**. J'ai ensuite poursuivi mes études par un BUT Informatique à Limoges qui propose le parcours *Réalisation d'applications, conception, développement, validation*. Je suis actuellement en train de faire ma troisième année. 
 Je fais beaucoup de sport notamment du handball durant plus de 10 ans. Je suis passionnée par la réalisation d'origamis. 
 
 
@@ -82,6 +82,15 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 *Semestre 4*
 - Développement d'un application complexe :
   - Création d'une base de données pour stocker les résultats de l'application ray-tracing et affichage à travers une application en Java. Ajout de nouvelles conditions et de tests dans le réseau Kathara.
+ 
+**Troisième année**
+
+*Semestre 5*
+- Développement avancé :
+  - Développement d'une application web pour un gestionnaire de prévisionnel pour l'iut Informatique de l'université de Limoges
+ 
+*Semestre 6*
+- Evolution d'une application existante :
 
 
 ## Contact
