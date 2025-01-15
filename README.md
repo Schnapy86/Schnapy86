@@ -92,7 +92,7 @@ Durant mes années de formation, j'ai pu réaliser divers projets en groupe. Au 
 
 ## Contact
 Adresse mail : ilona.dejean@etu.unilim.fr
-Téléphone : 00.00.00.00.00
+Linkedin : www.linkedin.com/in/ilona-dejean-01611b2a1
 
 
 
